@@ -1,0 +1,173 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: white;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1420px;
+    height: 1680px;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: white;
+}
+
+aside {
+    width: 370px;
+
+    background: #1e2939;
+}
+
+img {
+    margin-top: 25px;
+    width: 370px;
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 53px;
+    line-height: 55px;
+    margin-top: 0;
+    padding-top: 0;
+}
+.description {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: black;
+    margin-bottom: 40px;
+}
+
+.header-primary {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 27px;
+    margin-bottom: 12px;
+    margin-top: 30px;
+}
+
+.list-primary {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-primary-item {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    text-decoration: none;
+
+    color: black;
+}
+
+.header-tertiary {
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 20px;
+}
+
+.highlight {
+    color: #fb6d3a;
+}
+
+.job-date {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    color: rgb(131, 131, 131);
+}
+
+.job-list {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: black;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.languages {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.languages p {
+    font-weight: 700;
+    font-size: 17.6px;
+    line-height: 26px;
+}
+
+.white-color {
+    color: white;
+}
+
+.header-quaternary {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 17px;
+}
+.header-secondary {
+    color: white;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 17px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-secondary-item {
+    color: white;
+}
+.contact-links {
+    color: #fb6d3a;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: 700;
+    color: white;
+    font-size: 17px;
+}
+
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.tech-skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.soft-skills-block {
+    margin-top: 44px;
+    margin-left: 40px;
+}
+
+main {
+    padding-left: 88px;
+    padding-top: 102px;
+    padding-right: 249px;
+    padding-bottom: 80px;
+}
+
+.klauzula {
+    font-size: 14px;
+    margin-top: 100px;
+}
